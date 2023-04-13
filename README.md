@@ -1,4 +1,4 @@
-![logo] (https://github.com/incoggeek/incoggeek/blob/master/banner.jpg)
+![logo](https://github.com/incoggeek/incoggeek/blob/master/banner.jpg)
 <h1 align="center">Hi 👋, I'm Shamim</h1>
 <h3 align="center">Just a Tech Enthusiast 👨‍💻</h3>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
