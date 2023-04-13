@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [Tour Ally](https://github.com/incoggeek/TourAlly)
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning *Android Development*
 
-- 📝 I regularly write articles on [incog-geek.medium.com](incog-geek.medium.com)
+- 📝 I regularly write articles on [Medium](https://incog-geek.medium.com/)
 
-- 💬 Ask me about **Web & App Development**
+- 💬 Ask me about *Web & App Development*
 
-- 📫 How to reach me **mohdshamim4312@gmail.com**
+- 📫 How to reach me *mohdshamim4312@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tj_SpGsMcuWBSGn5ICxYgdtTyJJ9tu1i/view?usp=drivesdk](https://drive.google.com/file/d/1tj_SpGsMcuWBSGn5ICxYgdtTyJJ9tu1i/view?usp=drivesdk)
+- 📄 Know about my experiences [Here's my Resume](https://drive.google.com/file/d/1tj_SpGsMcuWBSGn5ICxYgdtTyJJ9tu1i/view?usp=drivesdk)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohd-shamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-shamim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-shamim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-shamim" height="30" width="40" /></a>
 <a href="https://instagram.com/incoggeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="incoggeek" height="30" width="40" /></a>
 <a href="https://medium.com/@incog-geek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@incog-geek" height="30" width="40" /></a>
 </p>
