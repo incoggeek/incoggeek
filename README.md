@@ -15,6 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you want to reach 100 followers on Medium?](https://incog-geek.medium.com/do-you-want-to-reach-100-followers-on-medium-d673fd7c0659?source=rss-ae85c9e708cc------2)
+- [MapReduce 2](https://incog-geek.medium.com/mapreduce-2-1352a62df8e9?source=rss-ae85c9e708cc------2)
+- [How hadoop works](https://incog-geek.medium.com/how-hadoop-works-42cb88668863?source=rss-ae85c9e708cc------2)
+- [Prolog Programming](https://incog-geek.medium.com/prolog-programming-9beb258f113b?source=rss-ae85c9e708cc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
