@@ -16,6 +16,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+[Medium]: https://incog-geek.medium.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
