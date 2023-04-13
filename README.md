@@ -13,7 +13,7 @@
 
 - 📫 How to reach me *mohdshamim4312@gmail.com*
 
-- 📄 Know about my experiences [Here's my Resume](https://drive.google.com/file/d/1tj_SpGsMcuWBSGn5ICxYgdtTyJJ9tu1i/view?usp=drivesdk)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1tj_SpGsMcuWBSGn5ICxYgdtTyJJ9tu1i/view?usp=drivesdk)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
