@@ -11,7 +11,7 @@
 
 - 💬 Ask me about *Web & App Development*
 
-### Latest blog post from @incoggeek
+### Latest blog post
 <!-- BLOG-POST-LIST:START -->
 - [Do you want to reach 100 followers on Medium?](https://incog-geek.medium.com/do-you-want-to-reach-100-followers-on-medium-d673fd7c0659?source=rss-ae85c9e708cc------2)
 - [MapReduce 2](https://incog-geek.medium.com/mapreduce-2-1352a62df8e9?source=rss-ae85c9e708cc------2)
