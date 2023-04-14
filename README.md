@@ -12,18 +12,7 @@
 - 💬 Ask me about *Web & App Development*
 
 ### Latest blog post
-<!-- BLOG-POST-LIST:START -->
-- [Do you want to reach 100 followers on Medium?](https://incog-geek.medium.com/do-you-want-to-reach-100-followers-on-medium-d673fd7c0659?source=rss-ae85c9e708cc------2)
-- [MapReduce 2](https://incog-geek.medium.com/mapreduce-2-1352a62df8e9?source=rss-ae85c9e708cc------2)
-- [How hadoop works](https://incog-geek.medium.com/how-hadoop-works-42cb88668863?source=rss-ae85c9e708cc------2)
-- [Prolog Programming](https://incog-geek.medium.com/prolog-programming-9beb258f113b?source=rss-ae85c9e708cc------2)
-- [Agents in Artificial Intelligence](https://incog-geek.medium.com/agents-in-artificial-intelligence-2bbf92ecb2ed?source=rss-ae85c9e708cc------2)
-- [Artificial Intelligence](https://incog-geek.medium.com/artificial-intelligence-5fb9fb0c182a?source=rss-ae85c9e708cc------2)
-- [HBase in Big Data](https://incog-geek.medium.com/hbase-in-big-data-3b6da8334914?source=rss-ae85c9e708cc------2)
-- [Classic MapReduce Job run](https://incog-geek.medium.com/classic-mapreduce-job-run-69014a0b890c?source=rss-ae85c9e708cc------2)
-- [Java Tutorial for beginners](https://incog-geek.medium.com/java-tutorial-for-beginners-9d8a6940ce72?source=rss-ae85c9e708cc------2)
-- [How does the web work?](https://incog-geek.medium.com/how-does-the-web-work-d981e653f729?source=rss-ae85c9e708cc------2)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><tr><td>Do you want to reach 100 followers on Medium?</td><td>https://incog-geek.medium.com/do-you-want-to-reach-100-followers-on-medium-d673fd7c0659?source=rss-ae85c9e708cc------2</td></tr><tr><td>MapReduce 2</td><td>https://incog-geek.medium.com/mapreduce-2-1352a62df8e9?source=rss-ae85c9e708cc------2</td></tr><tr><td>How hadoop works</td><td>https://incog-geek.medium.com/how-hadoop-works-42cb88668863?source=rss-ae85c9e708cc------2</td></tr><tr><td>Prolog Programming</td><td>https://incog-geek.medium.com/prolog-programming-9beb258f113b?source=rss-ae85c9e708cc------2</td></tr><tr><td>Agents in Artificial Intelligence</td><td>https://incog-geek.medium.com/agents-in-artificial-intelligence-2bbf92ecb2ed?source=rss-ae85c9e708cc------2</td></tr><tr><td>Artificial Intelligence</td><td>https://incog-geek.medium.com/artificial-intelligence-5fb9fb0c182a?source=rss-ae85c9e708cc------2</td></tr><tr><td>HBase in Big Data</td><td>https://incog-geek.medium.com/hbase-in-big-data-3b6da8334914?source=rss-ae85c9e708cc------2</td></tr><tr><td>Classic MapReduce Job run</td><td>https://incog-geek.medium.com/classic-mapreduce-job-run-69014a0b890c?source=rss-ae85c9e708cc------2</td></tr><tr><td>Java Tutorial for beginners</td><td>https://incog-geek.medium.com/java-tutorial-for-beginners-9d8a6940ce72?source=rss-ae85c9e708cc------2</td></tr><tr><td>How does the web work?</td><td>https://incog-geek.medium.com/how-does-the-web-work-d981e653f729?source=rss-ae85c9e708cc------2</td></tr><!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
