@@ -17,4 +17,3 @@ jobs:
               with: 
                 max_post_count: "10"
                 feed_list: "https://medium.com/feed/@incog-geek"
-                template: "<tr><td>$title</td><td>$url</td></tr>"
