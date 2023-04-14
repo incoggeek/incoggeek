@@ -1,15 +1,13 @@
-![logo](https://github.com/incoggeek/incoggeek/blob/master/banner.jpg)
-<h1 align="center style="font-family:Poppins;">Hi 👋, I'm Shamim</h1>
-<h3 align="center">Just a Tech Enthusiast 👨‍💻</h3>
-<img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h3>Hi 👋, I'm Shamim</h3>
+<h6>Just a Tech Enthusiast 👨‍💻</h6>
 
-- 🔭 I’m currently working on [Tour Ally](https://github.com/incoggeek/TourAlly)
+- 🔭 I’m currently working on something cool 😉
 
-- 🌱 I’m currently learning *Android Development*
+- 🌱 I’m currently learning Android Development
 
 - 📝 I regularly write articles on [Medium](https://incog-geek.medium.com/)
 
-- 💬 Ask me about *Web & App Development*
+- 💬 Ask me about Web & App Development
 
 ### Latest Blog posts of [@incoggeek](https://github.com/incoggeek)
 <table>
