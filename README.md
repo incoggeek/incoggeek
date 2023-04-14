@@ -14,7 +14,8 @@
 ### Latest Blog posts of [@incoggeek](https://github.com/incoggeek)
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
+  <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 </table>
 
 <h3 align="left">Connect with me:</h3>
