@@ -19,7 +19,7 @@
 - [Artificial Intelligence](https://incog-geek.medium.com/artificial-intelligence-5fb9fb0c182a?source=rss-ae85c9e708cc------2)
 - [HBase in Big Data](https://incog-geek.medium.com/hbase-in-big-data-3b6da8334914?source=rss-ae85c9e708cc------2)
 - [Classic MapReduce Job run](https://incog-geek.medium.com/classic-mapreduce-job-run-69014a0b890c?source=rss-ae85c9e708cc------2)
-- [Java Tutorial for beginners](https://incog-geek.medium.com/java-tutorial-for-beginners-9d8a6940ce72?source=rss-ae85c9e708cc------2)
+- [Java Tutorial for beginners](https://medium.com/javarevisited/java-tutorial-for-beginners-9d8a6940ce72?source=rss-ae85c9e708cc------2)
 - [How does the web work?](https://incog-geek.medium.com/how-does-the-web-work-d981e653f729?source=rss-ae85c9e708cc------2)
 <!-- BLOG-POST-LIST:END -->
 
