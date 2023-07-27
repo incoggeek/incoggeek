@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on something cool 😉
 
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently pursuing Cybersecurity
 
 - 📝 I regularly write articles on [Medium](https://incog-geek.medium.com/)
 
