@@ -12,7 +12,6 @@
 ### Latest Blog posts of [@incoggeek](https://github.com/incoggeek)
 <!-- BLOG-POST-LIST:START -->
 - [Android Development For Absolute Beginners](https://medium.com/javarevisited/android-development-for-absolute-beginners-44098675d7ee?source=rss-ae85c9e708cc------2)
-- [Do you want to reach 100 followers on Medium?](https://incog-geek.medium.com/do-you-want-to-reach-100-followers-on-medium-d673fd7c0659?source=rss-ae85c9e708cc------2)
 - [MapReduce 2](https://incog-geek.medium.com/mapreduce-2-1352a62df8e9?source=rss-ae85c9e708cc------2)
 - [How hadoop works](https://incog-geek.medium.com/how-hadoop-works-42cb88668863?source=rss-ae85c9e708cc------2)
 - [Prolog Programming](https://incog-geek.medium.com/prolog-programming-9beb258f113b?source=rss-ae85c9e708cc------2)
@@ -21,6 +20,7 @@
 - [HBase in Big Data](https://incog-geek.medium.com/hbase-in-big-data-3b6da8334914?source=rss-ae85c9e708cc------2)
 - [Classic MapReduce Job run](https://incog-geek.medium.com/classic-mapreduce-job-run-69014a0b890c?source=rss-ae85c9e708cc------2)
 - [Java Tutorial for beginners](https://medium.com/javarevisited/java-tutorial-for-beginners-9d8a6940ce72?source=rss-ae85c9e708cc------2)
+- [How does the web work?](https://incog-geek.medium.com/how-does-the-web-work-d981e653f729?source=rss-ae85c9e708cc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
