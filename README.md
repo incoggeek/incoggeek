@@ -7,8 +7,6 @@
 
 - 📝 I regularly write articles on [Medium](https://incog-geek.medium.com/)
 
-- 💬 Ask me about Web & App Development
-
 ### Latest Blog posts of [@incoggeek](https://github.com/incoggeek)
 <!-- BLOG-POST-LIST:START -->
 - [Android Development For Absolute Beginners](https://medium.com/javarevisited/android-development-for-absolute-beginners-44098675d7ee?source=rss-ae85c9e708cc------2)
