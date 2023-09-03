@@ -10,7 +10,7 @@
 ### Latest Blog posts of [@incoggeek](https://github.com/incoggeek)
 <!-- BLOG-POST-LIST:START -->
 - [4-way handshake in wireless communication](https://infosecwriteups.com/4-way-handshake-in-wireless-communication-9e3d869f18be?source=rss-ae85c9e708cc------2)
-- [How I Hacked An Account [Unplanned]](https://incog-geek.medium.com/how-i-hacked-an-account-unplanned-86e1e2a8b2ac?source=rss-ae85c9e708cc------2)
+- [How I Hacked An Account [Unplanned]](https://infosecwriteups.com/how-i-hacked-an-account-unplanned-86e1e2a8b2ac?source=rss-ae85c9e708cc------2)
 - [Android Development For Absolute Beginners](https://medium.com/javarevisited/android-development-for-absolute-beginners-44098675d7ee?source=rss-ae85c9e708cc------2)
 - [MapReduce 2](https://incog-geek.medium.com/mapreduce-2-1352a62df8e9?source=rss-ae85c9e708cc------2)
 - [How hadoop works](https://incog-geek.medium.com/how-hadoop-works-42cb88668863?source=rss-ae85c9e708cc------2)
