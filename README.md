@@ -1,4 +1,4 @@
-<h3>Hi 👋, I'm Shamim</h3>
+<h3>Hi 👋, I'm Incoggeek</h3>
 <h6>Just a Tech Enthusiast 👨‍💻</h6>
 
 - 🔭 I’m currently working on something cool 😉
