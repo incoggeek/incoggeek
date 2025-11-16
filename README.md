@@ -9,16 +9,16 @@
 
 ### Latest Blog posts of [@incoggeek](https://github.com/incoggeek)
 <!-- BLOG-POST-LIST:START -->
+- [Leviathan6 : Over The Wire](https://infosecwriteups.com/leviathan6-over-the-wire-1f2363918462?source=rss-ae85c9e708cc------2)
+- [Metasploitable Privilege Escalation](https://infosecwriteups.com/metasploitable-privilege-escalation-2eda43c18e72?source=rss-ae85c9e708cc------2)
 - [Exploring the Web’s Hidden Corners with DorkDive: A Google Dorking Tool for Tech Enthusiasts](https://infosecwriteups.com/exploring-the-webs-hidden-corners-with-dorkdive-a-google-dorking-tool-for-tech-enthusiasts-c66816493c76?source=rss-ae85c9e708cc------2)
 - [4-way handshake in wireless communication](https://infosecwriteups.com/4-way-handshake-in-wireless-communication-9e3d869f18be?source=rss-ae85c9e708cc------2)
-- [How I Hacked An Account [Unplanned]](https://infosecwriteups.com/how-i-hacked-an-account-unplanned-86e1e2a8b2ac?source=rss-ae85c9e708cc------2)
+- [How I Secured An Account [Unplanned]](https://infosecwriteups.com/how-i-hacked-an-account-unplanned-86e1e2a8b2ac?source=rss-ae85c9e708cc------2)
 - [Android Development For Absolute Beginners](https://medium.com/javarevisited/android-development-for-absolute-beginners-44098675d7ee?source=rss-ae85c9e708cc------2)
-- [MapReduce 2](https://incog-geek.medium.com/mapreduce-2-1352a62df8e9?source=rss-ae85c9e708cc------2)
-- [How hadoop works](https://incog-geek.medium.com/how-hadoop-works-42cb88668863?source=rss-ae85c9e708cc------2)
-- [Prolog Programming](https://incog-geek.medium.com/prolog-programming-9beb258f113b?source=rss-ae85c9e708cc------2)
-- [Agents in Artificial Intelligence](https://incog-geek.medium.com/agents-in-artificial-intelligence-2bbf92ecb2ed?source=rss-ae85c9e708cc------2)
-- [Artificial Intelligence](https://incog-geek.medium.com/artificial-intelligence-5fb9fb0c182a?source=rss-ae85c9e708cc------2)
-- [HBase in Big Data](https://incog-geek.medium.com/hbase-in-big-data-3b6da8334914?source=rss-ae85c9e708cc------2)
+- [MapReduce 2](https://incoggeek.medium.com/mapreduce-2-1352a62df8e9?source=rss-ae85c9e708cc------2)
+- [How hadoop works](https://incoggeek.medium.com/how-hadoop-works-42cb88668863?source=rss-ae85c9e708cc------2)
+- [Prolog Programming](https://incoggeek.medium.com/prolog-programming-9beb258f113b?source=rss-ae85c9e708cc------2)
+- [Agents in Artificial Intelligence](https://incoggeek.medium.com/agents-in-artificial-intelligence-2bbf92ecb2ed?source=rss-ae85c9e708cc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
